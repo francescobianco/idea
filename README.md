@@ -1,1 +1,3 @@
 # Idea
+
+![Idea](idea.svg)
